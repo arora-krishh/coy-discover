@@ -1,0 +1,506 @@
+[
+  {
+    "id": "p01",
+    "name": "Aarav",
+    "age": 22,
+    "photo": "/api/avatars/p01.svg",
+    "bio": "Will rate your playlist honestly. Chai over coffee, always.",
+    "place": "IIT Delhi",
+    "interests": [
+      "Filmmaking",
+      "Stand-up comedy",
+      "Yoga"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p02",
+    "name": "Ananya",
+    "age": 21,
+    "photo": "/api/avatars/p02.svg",
+    "bio": "Weekend plan: find the best momos in the city and defend my choice.",
+    "place": "Miranda House",
+    "interests": [
+      "Photography",
+      "Travel",
+      "Startups"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p03",
+    "name": "Ishaan",
+    "age": 23,
+    "photo": "/api/avatars/p03.svg",
+    "bio": "Part-time overthinker, full-time snack enthusiast.",
+    "place": "Delhi University",
+    "interests": [
+      "Cricket",
+      "Coffee",
+      "Filmmaking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p04",
+    "name": "Meera",
+    "age": 20,
+    "photo": "/api/avatars/p04.svg",
+    "bio": "Sunrise walks, sunset debates. Ask me about my film list.",
+    "place": "St. Stephen's College",
+    "interests": [
+      "Podcasts",
+      "Badminton",
+      "Photography"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p05",
+    "name": "Kabir",
+    "age": 24,
+    "photo": "/api/avatars/p05.svg",
+    "bio": "I can parallel park and recite every dialogue from Jab We Met.",
+    "place": "Gurugram",
+    "interests": [
+      "Cycling",
+      "Football",
+      "Cricket"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p06",
+    "name": "Riya",
+    "age": 22,
+    "photo": "/api/avatars/p06.svg",
+    "bio": "Looking for someone to split a dessert and a bad movie with.",
+    "place": "Lady Shri Ram College",
+    "interests": [
+      "Street food",
+      "Poetry",
+      "Podcasts"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p07",
+    "name": "Vihaan",
+    "age": 21,
+    "photo": "/api/avatars/p07.svg",
+    "bio": "Trying to read more, mostly collecting bookmarks.",
+    "place": "DTU",
+    "interests": [
+      "Hiking",
+      "Anime",
+      "Cycling"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p08",
+    "name": "Saanvi",
+    "age": 25,
+    "photo": "/api/avatars/p08.svg",
+    "bio": "My camera roll is 80% food and 20% sky.",
+    "place": "South Delhi",
+    "interests": [
+      "Cooking",
+      "Dance",
+      "Street food"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p09",
+    "name": "Arjun",
+    "age": 23,
+    "photo": "/api/avatars/p09.svg",
+    "bio": "Probably late, but I will bring snacks.",
+    "place": "SRCC",
+    "interests": [
+      "Painting",
+      "Thrifting",
+      "Hiking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p10",
+    "name": "Diya",
+    "age": 20,
+    "photo": "/api/avatars/p10.svg",
+    "bio": "Learning guitar. Neighbours are being very patient.",
+    "place": "Jamia Millia Islamia",
+    "interests": [
+      "Book clubs",
+      "Chess",
+      "Cooking"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p11",
+    "name": "Rohan",
+    "age": 26,
+    "photo": "/api/avatars/p11.svg",
+    "bio": "Metro rides and long voice notes are my love language.",
+    "place": "Noida",
+    "interests": [
+      "Indie music",
+      "Gaming",
+      "Painting"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p12",
+    "name": "Tara",
+    "age": 22,
+    "photo": "/api/avatars/p12.svg",
+    "bio": "Good at quizzes, terrible at deciding where to eat.",
+    "place": "Hindu College",
+    "interests": [
+      "Stand-up comedy",
+      "Yoga",
+      "Book clubs"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p13",
+    "name": "Aditya",
+    "age": 24,
+    "photo": "/api/avatars/p13.svg",
+    "bio": "Believer in second breakfasts and spontaneous road trips.",
+    "place": "NSUT",
+    "interests": [
+      "Travel",
+      "Startups",
+      "Indie music"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p14",
+    "name": "Naina",
+    "age": 21,
+    "photo": "/api/avatars/p14.svg",
+    "bio": "Ask me about the time I got lost in Hauz Khas. Twice.",
+    "place": "Ashoka University",
+    "interests": [
+      "Coffee",
+      "Filmmaking",
+      "Stand-up comedy"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p15",
+    "name": "Dev",
+    "age": 23,
+    "photo": "/api/avatars/p15.svg",
+    "bio": "Gym at 6am, memes at 6:05am.",
+    "place": "IIIT Delhi",
+    "interests": [
+      "Badminton",
+      "Photography",
+      "Travel"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p16",
+    "name": "Kiara",
+    "age": 22,
+    "photo": "/api/avatars/p16.svg",
+    "bio": "Always up for a late-night Maggi and a deep chat.",
+    "place": "Hansraj College",
+    "interests": [
+      "Football",
+      "Cricket",
+      "Coffee"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p17",
+    "name": "Reyansh",
+    "age": 25,
+    "photo": "/api/avatars/p17.svg",
+    "bio": "Collecting sunsets, thrifted jackets and good conversations.",
+    "place": "Gurugram",
+    "interests": [
+      "Poetry",
+      "Podcasts",
+      "Badminton"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p18",
+    "name": "Myra",
+    "age": 19,
+    "photo": "/api/avatars/p18.svg",
+    "bio": "Competitive at board games. Friendly about it, mostly.",
+    "place": "Amity University Noida",
+    "interests": [
+      "Anime",
+      "Cycling",
+      "Football"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p19",
+    "name": "Yash",
+    "age": 22,
+    "photo": "/api/avatars/p19.svg",
+    "bio": "Will rate your playlist honestly. Chai over coffee, always.",
+    "place": "JNU",
+    "interests": [
+      "Dance",
+      "Street food",
+      "Poetry"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p20",
+    "name": "Zoya",
+    "age": 24,
+    "photo": "/api/avatars/p20.svg",
+    "bio": "Weekend plan: find the best momos in the city and defend my choice.",
+    "place": "Saket, Delhi",
+    "interests": [
+      "Thrifting",
+      "Hiking",
+      "Anime"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p21",
+    "name": "Neel",
+    "age": 21,
+    "photo": "/api/avatars/p21.svg",
+    "bio": "Part-time overthinker, full-time snack enthusiast.",
+    "place": "Shiv Nadar University",
+    "interests": [
+      "Chess",
+      "Cooking",
+      "Dance"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p22",
+    "name": "Anika",
+    "age": 23,
+    "photo": "/api/avatars/p22.svg",
+    "bio": "Sunrise walks, sunset debates. Ask me about my film list.",
+    "place": "Dwarka, Delhi",
+    "interests": [
+      "Gaming",
+      "Painting",
+      "Thrifting"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p23",
+    "name": "Kunal",
+    "age": 27,
+    "photo": "/api/avatars/p23.svg",
+    "bio": "I can parallel park and recite every dialogue from Jab We Met.",
+    "place": "Gurugram",
+    "interests": [
+      "Yoga",
+      "Book clubs",
+      "Chess"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p24",
+    "name": "Sana",
+    "age": 22,
+    "photo": "/api/avatars/p24.svg",
+    "bio": "Looking for someone to split a dessert and a bad movie with.",
+    "place": "Jamia Millia Islamia",
+    "interests": [
+      "Startups",
+      "Indie music",
+      "Gaming"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p25",
+    "name": "Ayaan",
+    "age": 20,
+    "photo": "/api/avatars/p25.svg",
+    "bio": "Trying to read more, mostly collecting bookmarks.",
+    "place": "Delhi University",
+    "interests": [
+      "Filmmaking",
+      "Stand-up comedy",
+      "Yoga"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p26",
+    "name": "Ira",
+    "age": 21,
+    "photo": "/api/avatars/p26.svg",
+    "bio": "My camera roll is 80% food and 20% sky.",
+    "place": "Miranda House",
+    "interests": [
+      "Photography",
+      "Travel",
+      "Startups"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p27",
+    "name": "Manav",
+    "age": 24,
+    "photo": "/api/avatars/p27.svg",
+    "bio": "Probably late, but I will bring snacks.",
+    "place": "IIT Delhi",
+    "interests": [
+      "Cricket",
+      "Coffee",
+      "Filmmaking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p28",
+    "name": "Prisha",
+    "age": 23,
+    "photo": "/api/avatars/p28.svg",
+    "bio": "Learning guitar. Neighbours are being very patient.",
+    "place": "Noida",
+    "interests": [
+      "Podcasts",
+      "Badminton",
+      "Photography"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p29",
+    "name": "Samar",
+    "age": 25,
+    "photo": "/api/avatars/p29.svg",
+    "bio": "Metro rides and long voice notes are my love language.",
+    "place": "Faridabad",
+    "interests": [
+      "Cycling",
+      "Football",
+      "Cricket"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p30",
+    "name": "Tanvi",
+    "age": 22,
+    "photo": "/api/avatars/p30.svg",
+    "bio": "Good at quizzes, terrible at deciding where to eat.",
+    "place": "Kamala Nehru College",
+    "interests": [
+      "Street food",
+      "Poetry",
+      "Podcasts"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p31",
+    "name": "Veer",
+    "age": 26,
+    "photo": "/api/avatars/p31.svg",
+    "bio": "Believer in second breakfasts and spontaneous road trips.",
+    "place": "South Delhi",
+    "interests": [
+      "Hiking",
+      "Anime",
+      "Cycling"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p32",
+    "name": "Mehak",
+    "age": 21,
+    "photo": "/api/avatars/p32.svg",
+    "bio": "Ask me about the time I got lost in Hauz Khas. Twice.",
+    "place": "Gargi College",
+    "interests": [
+      "Cooking",
+      "Dance",
+      "Street food"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p33",
+    "name": "Harsh",
+    "age": 23,
+    "photo": "/api/avatars/p33.svg",
+    "bio": "Gym at 6am, memes at 6:05am.",
+    "place": "DTU",
+    "interests": [
+      "Painting",
+      "Thrifting",
+      "Hiking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p34",
+    "name": "Nisha",
+    "age": 24,
+    "photo": "/api/avatars/p34.svg",
+    "bio": "Always up for a late-night Maggi and a deep chat.",
+    "place": "Gurugram",
+    "interests": [
+      "Book clubs",
+      "Chess",
+      "Cooking"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p35",
+    "name": "Rudra",
+    "age": 22,
+    "photo": "/api/avatars/p35.svg",
+    "bio": "Collecting sunsets, thrifted jackets and good conversations.",
+    "place": "Hindu College",
+    "interests": [
+      "Indie music",
+      "Gaming",
+      "Painting"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p36",
+    "name": "Simran",
+    "age": 20,
+    "photo": "/api/avatars/p36.svg",
+    "bio": "Competitive at board games. Friendly about it, mostly.",
+    "place": "Lady Shri Ram College",
+    "interests": [
+      "Stand-up comedy",
+      "Yoga",
+      "Book clubs"
+    ],
+    "likesMe": false
+  }
+]
